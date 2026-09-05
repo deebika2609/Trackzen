@@ -1,5 +1,5 @@
 name: Keep Render service awake
-
+# Schedular content
 on:
   schedule:
     - cron: "*/10 * * * *"
